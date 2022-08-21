@@ -1,0 +1,6 @@
+SNo     Name    Age     Percentage
+A       Apple   25      90.5
+B       Boy     15      45.4
+C       Cat     20      60.2
+D       Dog     10      25.6
+E       Eagle   30      95.6
